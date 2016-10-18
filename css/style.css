@@ -1,0 +1,12 @@
+.bg-img {
+  background-image: url('images/bg3.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+  color: #fff;
+  text-align: center;
+  padding-top: 150px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  
+}
