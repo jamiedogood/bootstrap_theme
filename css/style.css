@@ -8,5 +8,17 @@
   padding-top: 150px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  
+
+}
+
+.bg-color {
+  background-color: yellow;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
 }
